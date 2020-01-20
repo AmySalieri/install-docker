@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="add comments in Readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +35,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="D:\project_go\install-docker" />
     </key>
   </component>
@@ -54,6 +55,29 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="add comments in Readme" />
+      <created>1579515791428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579515791428</updated>
+      <workItem from="1579515794165" duration="172000" />
+      <workItem from="1579515974120" duration="11418000" />
+    </task>
+    <task id="LOCAL-00001" summary="commentaire">
+      <created>1579529692937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579529692937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -62,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -70,16 +96,27 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add comments in Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comments in Readme" />
+    <MESSAGE value="commentaire" />
+    <option name="LAST_COMMIT_MESSAGE" value="commentaire" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="118" key="CommitChangelistDialog2" timestamp="1578154589037">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="644" y="146" width="860" height="807" key="CommitChangelistDialog2" timestamp="1579529692779">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="598" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578154589037" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1578152560565">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="644" y="146" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579529692779" />
+    <state x="514" y="194" key="SettingsEditor" timestamp="1579515965758">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578152560565" />
+    <state x="514" y="194" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579515965758" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579529697018">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579529697018" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579515977041">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579515977041" />
   </component>
 </project>
